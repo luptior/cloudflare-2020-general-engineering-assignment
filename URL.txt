@@ -1,1 +1,1 @@
-https://my-worker.luptior.workers.dev
+https://cloudflare_assignment.luptior.workers.dev
